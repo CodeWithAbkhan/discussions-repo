@@ -1,2 +1,2 @@
 # discussions-repo
-Discussion repository for [sqlpey](https://sqlpey.com]
+Discussion repository for [sqlpey](https://sqlpey.com)
